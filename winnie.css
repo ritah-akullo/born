@@ -1,9 +1,6 @@
-body{background-color:lightblue;}
-h1{color: navy;
-margin-left:20px;}
-#sedrick{text-align:center;color:red}
-.Pine{text-align: right; color:brown}
-.Apple{text-align: right; color:yellow}
-.Bills{font-weight:16;
-             font-size: 36px}
-*{text-align:center;color:blue;}
+.pink{background-color: #a568ff;}
+.back{ background-color: #a568ff}
+.body{
+    background-color: #f2e9ff;
+}
+
